@@ -30,6 +30,7 @@ Unemployment Matric Reader is a project aimed at analyzing and visualizing matri
   - Matplotlib
   - NumPy
 - Power BI
+- Postgres
 
 ## Contributors
 - Colleen Malatji  
